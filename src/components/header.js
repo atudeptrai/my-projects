@@ -8,7 +8,7 @@ const header = () => {
             <div class="w-full flex justify-between px-4">
                 <!-- website Logo -->
                 <a href="">
-                    <img class="h-[26px] lg:h-[32px]" src="images/logo/logo2.png" alt="logo" />
+                    <img class="h-[26px] lg:h-[32px]" src="../images/logo/logo2.png" alt="logo" />
                 </a>
                 <div class="flex items-center">
                     
