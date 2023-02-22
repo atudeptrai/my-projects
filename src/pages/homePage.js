@@ -12,7 +12,7 @@ const homePage = () => {
                   <div class="flex justify-between w-full items-center space-x-4 lg:my-8 my-5">
                       <!-- website logo -->
                       <a class="text-5xl font-semibold" href="">
-                          <img class="h-[26px] lg:h-[32px]" src="/images/logo/logo2.png" alt="logo" />
+                          <img class="h-[26px] lg:h-[32px]" src="../images/logo/logo2.png" alt="logo" />
                       </a>
                       <div class="flex items-center">
                           <!-- light and dark mode button -->
@@ -123,7 +123,7 @@ const homePage = () => {
               data-aos="fade">
               <!-- personal image -->
               <img class="rounded-full w-[250px] h-[250px] 2xl:w-[280px] 2xl:h-[280px]"
-                  src="images/about/avatar.jpg" alt="about avatar" />
+                  src="../images/about/avatar.jpg" alt="about avatar" />
               <h3 class="mt-6 mb-1 text-5xl font-semibold dark:text-white"> Nguyễn Anh Tú </h3>
               <p class="mb-4 text-[#7B7B7B]">FPT polytechnic</p>
               <!-- social link and social  buttons -->
